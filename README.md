@@ -1,0 +1,1 @@
+# U2A4.-NOOTEBOOK.-An-lisis-de-Datos-Aplicables-a-Regresi-n-Lineal-Simple
